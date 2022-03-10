@@ -1,0 +1,14 @@
+                                    78 Karabük    *   05 Amasya          *   08 Artvin
+
+                                    74 Bartın     *   69 Bayburt         *   14 Bolu
+
+                                    29 Gümüşhane  *   55 Samsun          *   61 Trabzon
+
+                                    57 Sinop      *   67 Zonguldak       *   60 Tokat
+
+                                    53 Rize       *   52 Ordu            *   19 Çorum
+
+                                    37 Kastamonu  *   28 Giresun         *
+
+
+                                                  * LÜTFEN ŞEHİR SEÇİNİZ *
